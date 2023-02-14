@@ -15,6 +15,3 @@ temp.log
 temp.errors
 *.ini
 .d/
-
-#macos
-.DS_Store
